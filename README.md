@@ -1,6 +1,6 @@
 # Dark Souls Character Builder QA Automation Project
 
-Welcome to one of my QA Automation Projects. I will be carrying this project out using Visual Studio, Selenium WebDriver, and NUnit.
+Welcome to one of my QA Automation Projects. I will be carrying out this project using Visual Studio, Selenium WebDriver, and NUnit.
 
 ## Developer Information:
 
